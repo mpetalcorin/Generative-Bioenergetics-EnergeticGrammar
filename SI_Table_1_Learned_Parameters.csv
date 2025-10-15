@@ -1,0 +1,10 @@
+Parameter,Value,Tensor shape,Mean,Std
+k_trans,0.920873,,,
+k_rep,0.571379,,,
+k_repair,0.692039,,,
+k_ros_decay,0.106385,,,
+k_nadh_decay,0.048112,,,
+corr.0.weight,,16x5,0.059350,0.280850
+corr.0.bias,,16,0.000754,0.245731
+corr.2.weight,,3x16,-0.014985,0.180172
+corr.2.bias,,3,0.078134,0.225400

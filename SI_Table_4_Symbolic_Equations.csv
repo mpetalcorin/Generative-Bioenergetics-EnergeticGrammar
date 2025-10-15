@@ -1,0 +1,4 @@
+Output,Equation
+dG_dt,sin(sin(x1/0.12854041))
+dR_dt,cos(cos(0.5191416/x0))
+dP_dt,0.08553319**sin(exp(x0))
