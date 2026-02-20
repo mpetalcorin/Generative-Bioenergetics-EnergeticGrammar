@@ -42,10 +42,7 @@ Outputs appear under artifacts. Look for hall of fame csv files, trained weight 
 
 ### Citing
 
-If you use this work, please cite
-
-Petalcorin M I R (2025) Decoding the Energetic Grammar of Genetic Systems, a Hybrid Neural, Symbolic Framework for Quantum Informed Bioenergetics, AAIDEA, London U K
-
+**Petalcorin M.I.R. (2025)**. Decoding the Energetic Logic of Genetic Systems: A Hybrid Neural-Symbolic Framework for Quantum-Informed Bioenergetics. bioRxiv. https://www.biorxiv.org/content/10.1101/2025.10.15.682721v1.full.pdf
 ### Contact and support
 
 Issues and questions, email the corresponding author
